@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- IIS  
-- Installing web platform 
-- install my squal user name and password 
+- Install / Enable IIS in Windows WITH CGI  
+- Installing web platform PHP
+- Create a Directory 
 - install C++
+-  install my squal user name and password
 - config permission/ install Os ticket
+
 
 <h2>Installation Steps</h2>
 
